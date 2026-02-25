@@ -1,6 +1,6 @@
 # ml-thyroid-binary-classification
 
-# 🧠 Machine Learning-Based Thyroid Disease Classification (Binary Classification)
+## 🧠 Machine Learning-Based Thyroid Disease Classification (Binary Classification)
 
 This project implements a machine learning model for thyroid disease Classification (Binary Classification) using Python. The notebook is designed to run on Google Colab, allowing execution without any local setup.
 
